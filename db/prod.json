@@ -1,0 +1,9 @@
+{
+    "users_prod": [
+        { "id": 1, "name": "Alice prod" },
+        { "id": 2, "name": "Bob prod" }
+    ],
+    "posts_prod": [
+        { "id": 1, "title": "Hello World prod", "content": "This is a sample post prod" }
+    ]
+}

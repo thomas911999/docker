@@ -1,0 +1,11 @@
+{
+    "users_slag": [
+        { "id": 1, "name": "Alice_stag" },
+        { "id": 2, "name": "Bob_stag" },
+        { "id": 3, "name": "Peter_stag" }
+    ],
+    "posts_slag": [
+        { "id": 1, "title": "Hello World slag", "content": "This is a sample post" },
+        { "id": 1, "title": "McDonalds slag", "content": "I love eating burger !! slag" }
+    ]
+}
